@@ -22,7 +22,7 @@ BUILD = '17021803'
 TARGET = 'ULife'
 
 #Info.plist路径
-PLIST_PATH = "~/Desktop/ULife-YQB/ULife/Info.plist"
+PLIST_PATH = "xxxxxx/Info.plist"
 
 #存放路径以时间命令
 DATE = datetime.datetime.now().strftime('%Y-%m-%d_%H.%M.%S')
